@@ -1,6 +1,6 @@
 name: Dottyteakettle
 favicon: null
-layout_spectrum: 0.958370694424957
+layout_spectrum: 1
 typography_spectrum: 0.2789540789090097
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.44607452605850995
+  brandStrength: 0.5
   lightness: 0.93546033767052
   saturation: 0.6994759405497462
   rhythmicContrast: 0.5462272353470325
