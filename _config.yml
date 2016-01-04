@@ -1,0 +1,28 @@
+name: Dottyteakettle
+favicon: null
+layout_spectrum: 0.958370694424957
+typography_spectrum: 0.2789540789090097
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.44607452605850995
+  lightness: 0.93546033767052
+  saturation: 0.6994759405497462
+  rhythmicContrast: 0.5462272353470325
+purpose: []
